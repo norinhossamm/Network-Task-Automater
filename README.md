@@ -1,11 +1,5 @@
 # Network Task Automator
 
-The "Network Task Automator" project leverages a multithreaded server architecture to perform a versatile array of automated tasks, including network configuration, alarm, and statistics, as well as file conversions and transmissions. 
-
-This robust application serves to streamline complex network operations and enhance productivity through an intuitive GUI, facilitating seamless interactions across diverse network functionalities.
-
-**Tools Used**: Python 
-
  <div align="center">
 <img width="809" alt="Screenshot 2024-08-06 at 2 28 11 PM" src="https://github.com/user-attachments/assets/eba38530-2912-401f-abd0-5c9e85767303">
  </div>
