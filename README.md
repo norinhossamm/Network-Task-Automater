@@ -1,4 +1,4 @@
-# Network Task Automater
+# Network Task Automator
 
 The "Network Task Automator" project leverages a multithreaded server architecture to perform a versatile array of automated tasks, including network configuration, alarm, and statistics, as well as file conversions and transmissions. 
 
